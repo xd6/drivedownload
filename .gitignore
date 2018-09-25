@@ -1,4 +1,12 @@
-node_modules
+node_modules/
+output/
+dist/
+
 credentials.json
 token.json
 out.json
+error_log.json
+tree.json
+
+.record.json
+.record.json.part

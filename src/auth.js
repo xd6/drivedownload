@@ -1,5 +1,4 @@
-import { OAuth2Client } from './node_modules/google-auth-library';
-import { GetTokenResponse } from './node_modules/google-auth-library/build/src/auth/oauth2client';
+import { OAuth2Client } from 'google-auth-library';
 import readline from 'readline';
 const Promise = require('bluebird');
 const { google } = require('googleapis');
